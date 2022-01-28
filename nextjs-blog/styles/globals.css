@@ -25,3 +25,8 @@ img {
   max-width: 100%;
   display: block;
 }
+
+button {
+  border-radius: 5px;
+  border: 1px solid black;
+}
